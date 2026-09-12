@@ -19,9 +19,9 @@ $\color{#BE57BD}{\textsf{ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ}}$
 </p>
 
 <p align="center">
-$\color{#824F9A}{\textsf{　ARCHIVE　}}$
-$\color{#F75DBD}{\textsf{　ཐི༏ཋྀ　}}$
-$\color{#BE57BD}{\textsf{　BASILICA　}}$
+$\color{#824F9A}{\textsf{　𝐇α𝖾𝗋𝗂𐓣　}}$
+$\color{#F75DBD}{\textsf{　૮꒰ ˶• ༝ •˶꒱ა ♡　}}$
+$\color{#BE57BD}{\textsf{ 𝘏𝘢𝘷𝘦 𝘺𝘰𝘶 𝘴𝘦𝘦𝘯 𝘵𝘩𝘪𝘴 𝒜𝓃𝑔ℯ𝓁 ? 　}}$
 <br><br>
 </p>
 
