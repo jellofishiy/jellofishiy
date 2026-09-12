@@ -31,6 +31,6 @@ $\color{#BE57BD}{\textsf{ 𝘏𝘢𝘷𝘦 𝘺𝘰𝘶 𝘴𝘦𝘦𝘯 𝘵�
   <a href="https://softmalfunction.atabook.org/">
     <img src="https://img.shields.io/badge/atabook-BE57BD?style=for-the-badge" alt="Static Badge">
   </a>
-<a href="https://guns.lol/loveliness./">
+<a href="https://guns.lol/loveliness/">
   <img src="https://img.shields.io/badge/guns-F75DBD?style=for-the-badge" alt="Static Badge">
 </p>
