@@ -27,3 +27,11 @@ $\color{#BE57BD}{\textsf{ 𝘏𝘢𝘷𝘦 𝘺𝘰𝘶 𝘴𝘦𝘦𝘯 𝘵�
 <div align="center">
 <img width="430" height="15" alt="Image" src="https://github.com/user-attachments/assets/53b51ecd-e07f-401d-97ba-7e37f56177ee" />
 
+<p align="center">
+  <a href="https://fuyuka.atabook.org/">
+    <img src="https://img.shields.io/badge/atabook-fef0db?style=for-the-badge" alt="Static Badge">
+  </a>
+<img src="https://github.com/lcckedheartx/lcckedheartx/blob/4915cfd87c6fa98eb94047739911c59f00ce8626/Kh%C3%B4ng%20C%C3%B3%20Ti%C3%AAu%20%C4%90%E1%BB%81138_20260901102741.png" alt="Mô tả ảnh" width="30%" height="30%">
+<a href="https://guns.lol/tgz./">
+  <img src="https://img.shields.io/badge/guns-F3C1D2?style=for-the-badge" alt="Static Badge">
+</p>
