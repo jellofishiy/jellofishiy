@@ -28,9 +28,9 @@ $\color{#BE57BD}{\textsf{ 𝘏𝘢𝘷𝘦 𝘺𝘰𝘶 𝘴𝘦𝘦𝘯 𝘵�
 <img width="430" height="15" alt="Image" src="https://github.com/user-attachments/assets/53b51ecd-e07f-401d-97ba-7e37f56177ee" />
 
 <p align="center">
-  <a href="https://softmalfuntion.atabook.org/">
+  <a href="https://softmalfunction.atabook.org/">
     <img src="https://img.shields.io/badge/atabook-BE57BD?style=for-the-badge" alt="Static Badge">
   </a>
-<a href="https://guns.lol/Loveliness./">
+<a href="https://guns.lol/loveliness./">
   <img src="https://img.shields.io/badge/guns-F75DBD?style=for-the-badge" alt="Static Badge">
 </p>
