@@ -13,7 +13,6 @@
 $\color{#F5C7E1}{\textsf{　　C + H freely, sometimes afk so w2i. Int. 🎀　　}}$
 </kbd>
 </p>
-
 <p align="center">
 $\color{#BE57BD}{\textsf{ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ}}$
 </p>
@@ -24,7 +23,6 @@ $\color{#F75DBD}{\textsf{　૮꒰ ˶• ༝ •˶꒱ა ♡　}}$
 $\color{#BE57BD}{\textsf{ 𝘏𝘢𝘷𝘦 𝘺𝘰𝘶 𝘴𝘦𝘦𝘯 𝘵𝘩𝘪𝘴 𝒜𝓃𝑔ℯ𝓁 ? 　}}$
 <br><br>
 </p>
-
 
 <div align="center">
 <img width="430" height="15" alt="Image" src="https://github.com/user-attachments/assets/53b51ecd-e07f-401d-97ba-7e37f56177ee" />
