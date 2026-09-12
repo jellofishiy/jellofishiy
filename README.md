@@ -8,8 +8,22 @@
 <img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/72082ffa-d2f0-49b3-80e3-911230cc9e2a" /><img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/497c21fb-2bc8-4f49-ab67-59815a6f7957" />
 </div>
 
-<div align="center">
-`` C + H freely. Sometimes afk so w2i ``
+<p align="center">
+<kbd>
+$\color{#F5C7E1}{\textsf{　　C + H freely, sometimes afk so w2i. Int. 🎀　　}}$
+</kbd>
+</p>
+
+<p align="center">
+$\color{#BE57BD}{\textsf{ﮩ٨ـﮩﮩ٨ـ♡ﮩ٨ـﮩﮩ٨ـ}}$
+</p>
+
+<p align="center">
+$\color{#824F9A}{\textsf{　ARCHIVE　}}$
+$\color{#F75DBD}{\textsf{　ཐི༏ཋྀ　}}$
+$\color{#BE57BD}{\textsf{　BASILICA　}}$
+<br><br>
+</p>
 
 <div align="center">
 <img width="430" height="15" alt="Image" src="https://github.com/user-attachments/assets/53b51ecd-e07f-401d-97ba-7e37f56177ee" />
